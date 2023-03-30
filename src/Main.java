@@ -11,6 +11,11 @@ public class Main {
         x.cylinders = "8";
         x.size = "1234cc";
         x.weight = "6435k";
-        
+
+
+        Color color = new Color();
+        color.colorLights = "True";
+        color.colorType = "False";
+        color.colorWindows = "True";
     }
 }
